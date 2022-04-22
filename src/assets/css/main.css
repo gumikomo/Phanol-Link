@@ -1,0 +1,15 @@
+/* =========== CSS GLOBAL ===========*/
+.container{
+    width: 1280px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+/* --- Custome Font Text ---*/
+@font-face {
+    font-family: "Neosanintel";
+    src: local("Neosanintel"),
+      url("../../assets/fonts/UTM Neo Sans Intel.ttf") format("truetype");
+  }
+  /* --- End Custome Font Text ---*/
